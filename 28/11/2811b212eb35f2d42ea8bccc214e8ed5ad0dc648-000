@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "claude:068e9161-445a-4e75-a52f-e12511b3ad70",
+  "sessionId": "068e9161-445a-4e75-a52f-e12511b3ad70",
+  "provider": "claude",
+  "title": "<command-message>zenray-html-photoshop-pdf</command-message> <command-name>/zenray-html-photoshop-pdf</command-name> <command-args>Sliders t",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/068e9161-445a-4e75-a52f-e12511b3ad70.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/068e9161-445a-4e75-a52f-e12511b3ad70.jsonl",
+      "relativePath": "conversations/claude/b470f149f8ad351e/4c0fa2bb7a60d790.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-02T15:45:30.988Z",
+  "stagedAt": "2026-10-04T08:31:41.632Z"
+}
