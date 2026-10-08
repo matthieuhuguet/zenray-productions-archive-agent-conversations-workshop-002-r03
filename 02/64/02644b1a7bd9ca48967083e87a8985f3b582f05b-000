@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7e14-a773-7292-9087-2eaf4a5b2a28",
+  "sessionId": "019e7e14-a773-7292-9087-2eaf4a5b2a28",
+  "provider": "codex",
+  "title": "Audit en lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Objectif: revue adversariale/performanc",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-49-03-019e7e14-a773-7292-9087-2eaf4a5b2a28.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-49-03-019e7e14-a773-7292-9087-2eaf4a5b2a28.jsonl",
+      "relativePath": "conversations/codex/8884d70d4b8982fc/6571f12c30751cee.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:56:28.561Z",
+  "stagedAt": "2026-10-04T09:23:26.069Z"
+}
