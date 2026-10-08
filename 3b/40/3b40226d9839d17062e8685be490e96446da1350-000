@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e74ef-8928-7393-94c0-910a0b13162b",
+  "sessionId": "019e74ef-8928-7393-94c0-910a0b13162b",
+  "provider": "codex",
+  "title": "Parse memory Japanese1.md et fais moi la liste pdf minimaliste de tout les mots vocabulaire only Je veux un document minimaliste avec unique",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/29/rollout-2026-05-29T20-11-55-019e74ef-8928-7393-94c0-910a0b13162b.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/29/rollout-2026-05-29T20-11-55-019e74ef-8928-7393-94c0-910a0b13162b.jsonl",
+      "relativePath": "conversations/codex/8a1547c2293bff77/10da0a0e7db4b595.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-29T18:22:16.273Z",
+  "stagedAt": "2026-10-04T09:25:46.075Z"
+}
