@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e75c3-dfee-7da1-a03d-08e94266da9b",
+  "sessionId": "019e75c3-dfee-7da1-a03d-08e94266da9b",
+  "provider": "codex",
+  "title": "sans coder explique moi comment est gérer la mémoire permanente sur ce projet ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/30/rollout-2026-05-30T00-03-51-019e75c3-dfee-7da1-a03d-08e94266da9b.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/30/rollout-2026-05-30T00-03-51-019e75c3-dfee-7da1-a03d-08e94266da9b.jsonl",
+      "relativePath": "conversations/codex/a81a4c5377c9006d/4bf9d67c4ea199c2.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-29T22:08:38.115Z",
+  "stagedAt": "2026-10-04T09:25:36.023Z"
+}

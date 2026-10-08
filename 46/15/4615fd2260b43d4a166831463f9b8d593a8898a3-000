@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e5059-3f08-7c50-9b7c-fca4201a55cb",
+  "sessionId": "019e5059-3f08-7c50-9b7c-fca4201a55cb",
+  "provider": "codex",
+  "title": "Ce que je veux c'est que tu commences à me vider ces dossiers recovered vers /Users/zenray/Create/Media/References/References.library Eagle ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T17-41-26-019e5059-3f08-7c50-9b7c-fca4201a55cb.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T17-41-26-019e5059-3f08-7c50-9b7c-fca4201a55cb.jsonl",
+      "relativePath": "conversations/codex/a9845c5df70798e4/795c0075b2db1c89.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-22T16:52:17.738Z",
+  "stagedAt": "2026-10-04T09:35:06.285Z"
+}
