@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e789f-6d45-7b52-b3e0-0395614bb8c7",
+  "sessionId": "019e789f-6d45-7b52-b3e0-0395614bb8c7",
+  "provider": "codex",
+  "title": "allez j'ai actuellement un projet qui me permet de faire des copies de sessions à travers mes sessions de cloud code sur l'application cloud",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/30/rollout-2026-05-30T13-22-54-019e789f-6d45-7b52-b3e0-0395614bb8c7.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/30/rollout-2026-05-30T13-22-54-019e789f-6d45-7b52-b3e0-0395614bb8c7.jsonl",
+      "relativePath": "conversations/codex/87b4491dfd123fb2/9750a39b2009f525.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-30T12:09:30.716Z",
+  "stagedAt": "2026-10-04T09:25:16.029Z"
+}

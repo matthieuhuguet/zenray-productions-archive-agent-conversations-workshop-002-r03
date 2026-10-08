@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7dd6-03a2-77d3-bf93-0d2deba28e16",
+  "sessionId": "019e7dd6-03a2-77d3-bf93-0d2deba28e16",
+  "provider": "codex",
+  "title": "Analyse mon coder MAIS NE CODE ABSOLUMENT RIEN JUSTE AUDIT fais une revue pour déterminer pourquoi /Users/zenray/Create/Build/Productions/Gi",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T13-40-38-019e7dd6-03a2-77d3-bf93-0d2deba28e16.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T13-40-38-019e7dd6-03a2-77d3-bf93-0d2deba28e16.jsonl",
+      "relativePath": "conversations/codex/8322fbaf178662dc/4fb0926a2db40107.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T22:44:05.089Z",
+  "stagedAt": "2026-10-04T09:22:36.005Z"
+}
