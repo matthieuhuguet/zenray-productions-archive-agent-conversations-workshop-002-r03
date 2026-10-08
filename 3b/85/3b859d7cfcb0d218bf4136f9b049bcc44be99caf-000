@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "claude:2b07b759-dad5-4053-af6d-10e036fe53df",
+  "sessionId": "2b07b759-dad5-4053-af6d-10e036fe53df",
+  "provider": "claude",
+  "title": "Dans ZenRay /zenrayprogress-context commencer à construire le plan pour pas encore le code concevoir la documentation de ce produit on comme",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/24532427-0b45-4cae-8118-8816b561bfea.jsonl",
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/2b07b759-dad5-4053-af6d-10e036fe53df.jsonl",
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/4d522b79-b850-48ce-9bd4-edbb3493a8cb.jsonl",
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/baa9ca9e-c0c1-4930-bae7-15743113a161.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/24532427-0b45-4cae-8118-8816b561bfea.jsonl",
+      "relativePath": "conversations/claude/771c6c3f7cb9d590/164edd9a75856f57.jsonl"
+    },
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/2b07b759-dad5-4053-af6d-10e036fe53df.jsonl",
+      "relativePath": "conversations/claude/771c6c3f7cb9d590/e335c9d87c720d8f.jsonl"
+    },
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/4d522b79-b850-48ce-9bd4-edbb3493a8cb.jsonl",
+      "relativePath": "conversations/claude/771c6c3f7cb9d590/a758b671b965bf1e.jsonl"
+    },
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/baa9ca9e-c0c1-4930-bae7-15743113a161.jsonl",
+      "relativePath": "conversations/claude/771c6c3f7cb9d590/04ce28898328c441.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T06:18:33.462Z",
+  "stagedAt": "2026-10-04T08:27:49.106Z"
+}
